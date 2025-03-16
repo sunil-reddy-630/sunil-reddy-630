@@ -38,7 +38,10 @@ I love exploring new tech gadgets and am an avid reader of science fiction novel
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-reddy-630&layout=compact&theme=radical)
 
 <!-- Add badges -->
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-007ACC?style=flat&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MySql](https://img.shields.io/badge/-MySql-339933?style=flat&logo=node.js&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=black)
+![Django](https://img.shields.io/badge/-Django-232F3E?style=flat&logo=amazon-aws&logoColor=green)
+
