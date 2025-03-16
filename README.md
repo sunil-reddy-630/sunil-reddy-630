@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate developer interested in web development, open-source contributions, and learning new technologies.
 
-![Profile Views](https://komarev.com/ghpvc/?username=sunil-reddy-630&color=blue)
-
 ## 🔭 What I'm working on
 
 - Building scalable web applications using modern technologies.
