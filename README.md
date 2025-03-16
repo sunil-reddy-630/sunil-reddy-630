@@ -38,10 +38,10 @@ I love exploring new tech gadgets and am an avid reader of science fiction novel
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-reddy-630&layout=compact&theme=radical)
 
 <!-- Add badges -->
-![Python](https://img.shields.io/badge/-Python-007ACC?style=flat&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![MySql](https://img.shields.io/badge/-MySql-339933?style=flat&logo=node.js&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-F7DF1E?style=flat&logo=javascript&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=black)
-![Django](https://img.shields.io/badge/-Django-232F3E?style=flat&logo=amazon-aws&logoColor=green)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![MySql](https://img.shields.io/badge/-MySql-4479A1?style=flat&logo=mysql&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 
